@@ -1,0 +1,178 @@
+.main {
+  padding: 0px;
+}
+
+.page {
+  background:
+    linear-gradient(135deg, rgba(36, 21, 13, 0.72), rgba(78, 47, 27, 0.42)),
+    url("../Authmn.jpg") center / cover no-repeat fixed;
+  width: 100%;
+  height: 100%;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  position: relative;
+  width: min(800px, 100%);
+  min-height: 560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 45px;
+  background: rgba(255, 250, 243, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: var(--radius-xl);
+  box-shadow: 0 25px 80px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(22px);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.switch {
+  width: 90%;
+  height: 50px;
+  background: #ffffff20;
+  backdrop-filter: blur(10px);
+  margin: 20px auto;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 50px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.switch label {
+  width: 50%;
+  text-align: center;
+  color: var(--white);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  z-index: 2;
+  line-height: 50px;
+}
+
+.slider {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 50%;
+  height: 40px;
+  border-radius: 40px;
+  background: var(--primary);
+  transition: var(--tra-slow);
+}
+
+.forms {
+  position: relative;
+  width: 90%;
+  width: min(800px, 100%);
+  overflow: hidden;
+  z-index: 5;
+}
+
+.forms-track {
+  display: flex;
+  width: 200%;
+  transition: transform var(--tra-slow);
+}
+
+.form {
+  padding: 35px;
+  width: 350px;
+  width: 50%;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form h2 {
+  color: var(--white);
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.inputbox {
+  position: relative;
+  width: 100%;
+}
+
+.input-box {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.inputbox i {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--primary-light);
+  z-index: 2;
+  pointer-events: none;
+  line-height: 1;
+}
+
+.inputbox input {
+  width: 100%;
+  padding: 14px 18px 14px 48px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  outline: none;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 14px;
+  backdrop-filter: blur(10px);
+}
+
+.inputbox input::placeholder {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.form button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  background: var(--primary);
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.form p {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  text-align: center;
+}
+
+.form p a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+#register:checked~.forms .forms-track {
+  transform: translateX(-50%);
+}
+
+#register:checked~.switch .slider {
+  transform: translateX(100%);
+}
+
+input[type="radio"] {
+  display: none;
+}

@@ -1,0 +1,426 @@
+{
+  "title": "Atomic Habits",
+  "type": "Non-Fiction Book",
+  "chapters": [
+    {
+      "title": "Surprising Power of Atomic Habits",
+      "chapter_number": 1,
+      "content": [
+        "Habits are the compound interest of self-improvement.",
+        "Small changes in behavior lead to remarkable results over time.",
+        "A 1% improvement each day adds up to a 37% improvement over a year.",
+        "Habits are the atomic units of progress and transformation.",
+        "People often overestimate the importance of a single event.",
+        "They underestimate the power of small, consistent actions.",
+        "Breakthroughs are often the result of many previous habits.",
+        "The most powerful outcomes are often delayed.",
+        "Your habits determine your trajectory and future outcomes.",
+        "The goal is not to change everything at once.",
+        "The goal is to focus on systems rather than goals.",
+        "Systems are the daily habits that lead to success.",
+        "Success is not a destination but a continuous process.",
+        "Atomic habits are the foundation of all achievement."
+      ]
+    },
+    {
+      "title": "How Your Habits Shape Your Identity",
+      "chapter_number": 2,
+      "content": [
+        "Identity is the most important factor in habit formation.",
+        "True behavior change is identity change.",
+        "Every action is a vote for the type of person you want to become.",
+        "Your habits are not just things you do; they are who you are.",
+        "The goal is not to read a book but to become a reader.",
+        "The goal is not to run a marathon but to become a runner.",
+        "Your identity emerges from your habits.",
+        "Each habit reinforces your self-image.",
+        "You cannot change your habits without changing your identity.",
+        "Focus on who you want to become rather than what to achieve.",
+        "Decide the type of person you want to be.",
+        "Prove your identity to yourself with small wins.",
+        "Your beliefs about yourself drive your behavior.",
+        "Identity-based habits are more sustainable than outcome-based goals."
+      ]
+    },
+    {
+      "title": "How to Build Better Habits in 4 Simple Steps",
+      "chapter_number": 3,
+      "content": [
+        "The habit loop consists of four stages: cue, craving, response, and reward.",
+        "Cue triggers your brain to initiate a behavior.",
+        "Craving is the motivational force behind every habit.",
+        "Response is the actual habit you perform.",
+        "Reward is the benefit you gain from the behavior.",
+        "These four stages form the foundation of every habit.",
+        "Understanding the habit loop is essential for change.",
+        "You can modify each stage to build better habits.",
+        "Make the cues obvious and the cravings attractive.",
+        "Make the responses easy and the rewards satisfying.",
+        "Bad habits can be broken by reversing these steps.",
+        "The process of habit formation is universal.",
+        "The key is to design habits that align with your goals.",
+        "Mastering the habit loop gives you control over your behavior."
+      ]
+    },
+    {
+      "title": "The Man Who Didn't Look Right",
+      "chapter_number": 4,
+      "content": [
+        "Habits are formed through repeated exposure to cues.",
+        "Your environment plays a crucial role in habit formation.",
+        "Habits are not just about willpower but about design.",
+        "The cue is the starting point of any habit.",
+        "Making cues obvious increases the likelihood of performing habits.",
+        "Design your environment to support your desired habits.",
+        "Put your goals in visible places to remind yourself.",
+        "Remove bad cues from your environment to reduce temptation.",
+        "Your brain automatically responds to environmental cues.",
+        "Creating a clear plan for where and when to act is essential.",
+        "Habit stacking links new habits to existing ones.",
+        "The implementation intention helps you follow through.",
+        "Specific plans are more effective than vague intentions.",
+        "Your environment is the invisible hand that shapes your behavior."
+      ]
+    },
+    {
+      "title": "The Best Way to Start a New Habit",
+      "chapter_number": 5,
+      "content": [
+        "The two-minute rule makes starting habits manageable.",
+        "Scale down your habits to the smallest possible version.",
+        "Any habit can be reduced to a two-minute action.",
+        "Start with the first step and make it easy to begin.",
+        "The two-minute rule helps you overcome procrastination.",
+        "Master the art of showing up consistently.",
+        "The idea is to standardize before you optimize.",
+        "Focus on the first few minutes of any habit.",
+        "Once you start, it becomes easier to continue.",
+        "Small actions lead to larger behaviors over time.",
+        "Starting is the hardest part of any habit.",
+        "Simplify your habits to make them effortless.",
+        "The two-minute rule builds momentum and confidence.",
+        "Success is built on the foundation of consistent starts."
+      ]
+    },
+    {
+      "title": "Motivation is Overrated",
+      "chapter_number": 6,
+      "content": [
+        "Environment design is more important than motivation.",
+        "People who rely on motivation often fail to sustain habits.",
+        "Design your environment to make good habits easier.",
+        "Reduce friction for good habits and increase it for bad ones.",
+        "The path of least resistance determines behavior.",
+        "Make good habits obvious and easy to do.",
+        "Make bad habits invisible and difficult to perform.",
+        "Your environment shapes your choices automatically.",
+        "Optimal conditions make desired habits inevitable.",
+        "Relying on willpower is a recipe for failure.",
+        "Systems and environment are more reliable than motivation.",
+        "Create a space that supports your goals.",
+        "The best way to change habits is to change the environment.",
+        "Your environment becomes the driver of your behavior."
+      ]
+    },
+    {
+      "title": "The Secret to Self-Control",
+      "chapter_number": 7,
+      "content": [
+        "Self-control is not about resisting temptation.",
+        "Self-control is about avoiding temptation in the first place.",
+        "The most effective way to break a bad habit is to remove the cue.",
+        "Out of sight is out of mind when it comes to habits.",
+        "Reduce exposure to triggers that lead to bad habits.",
+        "People with the most self-control avoid temptation altogether.",
+        "The key is to change the environment, not the behavior.",
+        "Making bad habits invisible is more effective than willpower.",
+        "Your environment creates the conditions for your habits.",
+        "Self-control is a short-term strategy, not a long-term solution.",
+        "Change the context to change the behavior.",
+        "Good habits are easier to maintain with a supportive environment.",
+        "The environment is the ultimate source of self-control.",
+        "Design your environment for success."
+      ]
+    },
+    {
+      "title": "How to Make a Habit Irresistible",
+      "chapter_number": 8,
+      "content": [
+        "Every habit has a craving attached to it.",
+        "Make good habits attractive to increase their appeal.",
+        "Temptation bundling links an action you want with one you need.",
+        "Pair your desired habit with something you enjoy.",
+        "Dopamine plays a key role in craving and motivation.",
+        "Anticipation of reward drives behavior.",
+        "The desire for pleasure is a powerful motivator.",
+        "Make good habits satisfying to reinforce them.",
+        "The reward should be immediate or near-term.",
+        "Bad habits often offer immediate gratification.",
+        "The cost of good habits is often delayed.",
+        "Use immediate rewards to reinforce good habits.",
+        "Make the reward part of the habit itself.",
+        "Attractive habits are easier to maintain over time."
+      ]
+    },
+    {
+      "title": "The Role of Family and Friends",
+      "chapter_number": 9,
+      "content": [
+        "Social influence is a powerful force in habit formation.",
+        "We adopt habits from people around us.",
+        "Surround yourself with people who have good habits.",
+        "The groups we belong to shape our identity and behavior.",
+        "Join cultures where your desired behavior is the norm.",
+        "Social norms influence what we consider normal.",
+        "We imitate people who are similar to us.",
+        "We imitate people who are powerful or respected.",
+        "The behavior of your social group affects you profoundly.",
+        "Create a community that supports your goals.",
+        "Accountability partners can help reinforce habits.",
+        "Share your progress with others for motivation.",
+        "The influence of others can be positive or negative.",
+        "Choose your social environment carefully for long-term success."
+      ]
+    },
+    {
+      "title": "How to Find and Fix the Causes of Your Bad Habits",
+      "chapter_number": 10,
+      "content": [
+        "Bad habits serve a purpose and fulfill a need.",
+        "Identify the root cause of your bad habits.",
+        "The behavior is often the symptom, not the problem.",
+        "Reframe your mindset to change your cravings.",
+        "Focus on the benefit rather than the difficulty.",
+        "Replace bad habits with good ones that serve the same need.",
+        "Your habits are solutions to problems you face.",
+        "Find better solutions to the same problems.",
+        "Understand the underlying motivation for your habits.",
+        "Cravings are the surface level of deeper needs.",
+        "Addressing the root cause leads to lasting change.",
+        "Habit replacement is more effective than habit elimination.",
+        "Give yourself better alternatives to bad habits.",
+        "The goal is to solve the same problem in a healthier way."
+      ]
+    },
+    {
+      "title": "Walk Slowly, But Never Backward",
+      "chapter_number": 11,
+      "content": [
+        "The most important thing is to keep going.",
+        "Perfection is not the goal; progress is the goal.",
+        "Consistency is more important than intensity.",
+        "Small actions repeated daily lead to remarkable results.",
+        "Be patient with your progress and trust the process.",
+        "Setbacks are normal and part of the journey.",
+        "The key is to never miss twice in a row.",
+        "Get back on track as soon as possible after a slip.",
+        "Focus on the system and not just the outcomes.",
+        "Success is the result of many small, consistent actions.",
+        "The journey of habit formation is long but rewarding.",
+        "Celebrate small victories along the way.",
+        "Progress is not always visible but is always happening.",
+        "Keep moving forward, even if it is just one step at a time."
+      ]
+    },
+    {
+      "title": "The Law of Least Effort",
+      "chapter_number": 12,
+      "content": [
+        "Human behavior follows the path of least resistance.",
+        "Reduce the friction associated with good habits.",
+        "Increase the friction associated with bad habits.",
+        "Make good habits as easy as possible to perform.",
+        "Set up your environment to support effortless habit execution.",
+        "Simplify your habits to their most basic form.",
+        "The easier a habit is, the more likely you are to do it.",
+        "Remove obstacles that stand in the way of good habits.",
+        "Automate your habits whenever possible.",
+        "Use technology to support your desired behaviors.",
+        "The environment can make habits almost effortless.",
+        "Design your life so that good habits become automatic.",
+        "Effortless habits are sustainable habits.",
+        "The best habits are those that require minimal effort."
+      ]
+    },
+    {
+      "title": "How to Stick with Good Habits Every Day",
+      "chapter_number": 13,
+      "content": [
+        "Never miss a habit twice in a row.",
+        "Missing one day is a mistake; missing two is the start of a new habit.",
+        "Recovery is key to maintaining long-term habits.",
+        "Get back on track immediately after a slip.",
+        "The first mistake is not the problem; the second is.",
+        "Use habit tracking to maintain consistency.",
+        "Visual progress is a powerful motivator.",
+        "Habit tracking reinforces your identity as a disciplined person.",
+        "The more you track your habits, the more aware you become.",
+        "Tracking habits provides immediate feedback.",
+        "Set a goal of consistency rather than perfection.",
+        "Small streaks build momentum and motivation.",
+        "Don't break the chain of your habit streaks.",
+        "Consistency over perfection is the key to success."
+      ]
+    },
+    {
+      "title": "How to Make Good Habits Inevitable",
+      "chapter_number": 14,
+      "content": [
+        "The best way to ensure good habits is to design them into your life.",
+        "Commitment devices lock you into good habits.",
+        "Use technology to automate your desired behaviors.",
+        "Plan for failures and obstacles in advance.",
+        "Prepare your environment to support good habits.",
+        "Make bad habits as inconvenient as possible.",
+        "The goal is to make good habits automatic and bad habits difficult.",
+        "Consider your future self when making decisions.",
+        "Design choices that benefit your long-term goals.",
+        "Commitment devices remove the need for willpower.",
+        "The best habits are the ones you don't have to think about.",
+        "Environmental design is the most powerful strategy.",
+        "Good habits become inevitable when they are the default option.",
+        "Design your life around the habits you want to build."
+      ]
+    },
+    {
+      "title": "The Cardinal Rule of Behavior Change",
+      "chapter_number": 15,
+      "content": [
+        "What is immediately rewarded is repeated.",
+        "What is immediately punished is avoided.",
+        "Make good habits satisfying and bad habits unsatisfying.",
+        "Use immediate reinforcement to cement good habits.",
+        "Bad habits often provide immediate pleasure.",
+        "Good habits often provide delayed rewards.",
+        "Create immediate rewards for your good habits.",
+        "Use extrinsic rewards to reinforce intrinsic motivation.",
+        "The reward must be meaningful to you personally.",
+        "Reinforce your identity with each habit repetition.",
+        "Every action is a vote for your desired identity.",
+        "The satisfaction of becoming the person you want to be is powerful.",
+        "Make the reward the process itself.",
+        "The best reward is the feeling of progress and growth."
+      ]
+    },
+    {
+      "title": "How to Make Your Habits Stick Forever",
+      "chapter_number": 16,
+      "content": [
+        "Habits stick when they are part of your identity.",
+        "The ultimate form of intrinsic motivation is identity-based.",
+        "Focus on becoming the type of person who does the habit.",
+        "Every action is a vote for the person you want to become.",
+        "The more you repeat a behavior, the more it becomes part of you.",
+        "Identity change is the most sustainable form of habit change.",
+        "Your habits shape your identity; your identity shapes your habits.",
+        "You have the power to rewrite your identity.",
+        "Believe that you are the type of person who follows through.",
+        "Your habits reflect your priorities and values.",
+        "Reinforce your new identity with small wins daily.",
+        "The goal is not to just achieve outcomes but to become someone.",
+        "Long-term habits are built on a foundation of identity.",
+        "When your habits align with your identity, they become permanent."
+      ]
+    },
+    {
+      "title": "The Secrets of the World's Best Performers",
+      "chapter_number": 17,
+      "content": [
+        "The most successful people focus on their systems, not their goals.",
+        "They embrace boredom and repetition in their training.",
+        "They practice deliberately and consistently.",
+        "They understand that habits are the compound interest of success.",
+        "They design their environment to support their goals.",
+        "They prioritize consistency over perfection.",
+        "They are patient and trust the process.",
+        "They understand that talent is overrated and effort is undervalued.",
+        "They have a growth mindset and embrace challenges.",
+        "They focus on areas within their control.",
+        "They recover quickly from setbacks and failures.",
+        "They surround themselves with supportive people.",
+        "They never stop learning and improving.",
+        "They make good habits automatic through relentless design."
+      ]
+    },
+    {
+      "title": "How to Stay on Track When Life Gets Hard",
+      "chapter_number": 18,
+      "content": [
+        "Life will inevitably disrupt your habits.",
+        "The key is to adapt and adjust without giving up.",
+        "Plan for obstacles and disruptions in advance.",
+        "Create emergency habits for difficult days.",
+        "The minimum viable habit is the backup plan.",
+        "When life gets hard, shrink your habits to their minimum version.",
+        "Maintaining consistency is more important than intensity.",
+        "Never miss twice, even during challenging times.",
+        "Recovery from setbacks is a skill you can develop.",
+        "Resilience comes from practice, not from perfection.",
+        "Focus on what you can control, not what you cannot.",
+        "Your habits are your anchor during turbulent times.",
+        "The people who succeed are the ones who keep going.",
+        "Every day is a new opportunity to recommit to your habits."
+      ]
+    },
+    {
+      "title": "How to Build Habits That Last",
+      "chapter_number": 19,
+      "content": [
+        "The secret to lasting habits is finding joy in the process.",
+        "Focus on the journey, not just the destination.",
+        "Make your habits enjoyable and sustainable.",
+        "Celebrate every small victory and milestone.",
+        "The best habits are the ones that feel natural and effortless.",
+        "Align your habits with your natural inclinations.",
+        "Your habits should reflect who you are and what you value.",
+        "Customize your habits to fit your personality and lifestyle.",
+        "There is no one-size-fits-all approach to habit formation.",
+        "Experiment and find what works best for you.",
+        "The habits that last are the ones that bring you joy.",
+        "Your habits are the building blocks of your identity.",
+        "Build habits that make you proud of the person you are becoming.",
+        "The journey of habit formation is lifelong."
+      ]
+    },
+    {
+      "title": "The Ultimate Guide to Atomic Habits",
+      "chapter_number": 20,
+      "content": [
+        "This chapter summarizes the key principles of the book.",
+        "Habits are the compound interest of self-improvement.",
+        "Focus on systems over goals.",
+        "Build identity-based habits.",
+        "Use the four laws of behavior change.",
+        "Make it obvious, attractive, easy, and satisfying.",
+        "Invert the laws to break bad habits.",
+        "Design your environment for success.",
+        "Embrace the two-minute rule.",
+        "Never miss twice in a row.",
+        "Track your habits and celebrate progress.",
+        "Surround yourself with supportive people.",
+        "Be patient and trust the process.",
+        "Your habits shape your identity and your future."
+      ]
+    },
+    {
+      "title": "Conclusion: The Power of Atomic Habits",
+      "chapter_number": 21,
+      "content": [
+        "Atomic habits are the building blocks of extraordinary results.",
+        "Small changes lead to remarkable outcomes over time.",
+        "Your habits determine your health, wealth, and happiness.",
+        "You have the power to change your habits and your life.",
+        "The journey begins with a single small step.",
+        "Focus on who you want to become, not just what you want to achieve.",
+        "Your habits are the architecture of your identity.",
+        "Every action is a vote for the person you want to be.",
+        "Success is the result of many small, consistent actions.",
+        "The best time to start building good habits is now.",
+        "Your habits are within your control.",
+        "Design a life that makes good habits inevitable.",
+        "The secret to lasting change is small, consistent improvements.",
+        "Your atomic habits will shape your future."
+      ]
+    }
+  ]
+}
